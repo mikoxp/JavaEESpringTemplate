@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<!DOCTYPE tiles-definitions PUBLIC
+        "-//Apache Software Foundation//DTD Tiles Configuration 3.0//EN"
+        "http://tiles.apache.org/dtds/tiles-config_3_0.dtd">
+<tiles-definitions>
+    <definition name="info" template="/WEB-INF/template/default/info.jsp"/>
+    <definition name="libs" template="/WEB-INF/template/default/libs.jsp"/>
+    <definition name="libs_angular" template="/WEB-INF/template/default/angular_libs.jsp"/>
+    <definition name="head" template="/WEB-INF/template/default/head.jsp"/>
+    <definition name="footer" template="/WEB-INF/template/default/footer.jsp"/>
+    <definition name="adminForm" template="/WEB-INF/template/dedicated/adminForm.jsp"/>
+</tiles-definitions>
